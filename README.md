@@ -1,3 +1,1 @@
-# gitpractice.github.io
-# gitpractice.github.io
-# gitpractice.github.io
+Hello git practice
